@@ -2,6 +2,10 @@
 Note that this file updates only during build processes and doesn't necessarily reflect the current state.
 
 # Polish [pl]
+Undo.AddListElement  
+Undo.RemoveListElement  
+Tools.Brush.FinishStrokeGroup  
+Tools.MeshPlaneBrush.AddHole  
 Help.Help  
 Help.ComingSoon  
 Help.ExampleText  

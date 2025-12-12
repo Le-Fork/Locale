@@ -25,6 +25,10 @@ Contacts.InviteRequest.ForwardedRequest
 Contacts.InviteRequest.GrantedRequest  
 Notifications.ReceivedInviteRequestDirect  
 Notifications.ReceivedInviteRequestForwarded  
+Undo.AddListElement  
+Undo.RemoveListElement  
+Tools.Brush.FinishStrokeGroup  
+Tools.MeshPlaneBrush.AddHole  
 Tools.GaussianSplat.Name  
 Tools.GaussianSplat.ClipBox  
 Tools.GaussianSplat.ClipSphere  
